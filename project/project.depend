@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1575514653 source:d:\akashi\project\avlÊ÷²åÈë.c
+	<stdio.h>
+	<stdlib.h>
+
+1575905898 source:d:\akashi\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"AVLÊ÷²åÈë.h"
+	"ÍØÆËÅÅĞò.h"
+	"¹ş·òÂü±àÂë.h"
+	"×îĞ¡±à¼­¾àÀë.h"
+	"Íâ²¿ÅÅĞò.h"
+
+1575509148 d:\akashi\project\ÍØÆËÅÅĞò.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<assert.h>
+
+1575512897 source:d:\akashi\project\ÍØÆËÅÅĞò.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<assert.h>
+
+1575515035 d:\akashi\project\avlÊ÷²åÈë.h
+
+1575513516 source:d:\akashi\project\×îĞ¡±à¼­¾àÀë.c
+
+1575882334 d:\akashi\project\ÍØÆËÅÅĞò.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<assert.h>
+
+1575518349 d:\akashi\project\¹ş·òÂü±àÂë.h
+	<stdio.h>
+
+1576071365 d:\akashi\project\×îĞ¡±à¼­¾àÀë.h
+	<stdio.h>
+
+1575905740 d:\akashi\project\Íâ²¿ÅÅĞò.h
+

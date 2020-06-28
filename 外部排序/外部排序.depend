@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1576075089 source:d:\akashi\外部排序\main.c
+	<stdlib.h>
+	<stdio.h>
+
+1576073866 d:\akashi\外部排序\外部排序.h
+	<stdio.h>
+
